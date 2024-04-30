@@ -2,7 +2,7 @@ This repository contains 5 Python projects with dataset
 1. AMAZON REVIEW ANALYSIS
    Performed sentiment analysis on amazon reviews of toys
 
-2 HEART DISEASE RISK FACTORS
+2. HEART DISEASE RISK FACTORS
     Investigating multifactorial influences such as lifestyle, genetics, 
     and medical history to discern key risk factors contributing to increased susceptibility to cardiovascular issues.
 
