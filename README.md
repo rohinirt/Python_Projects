@@ -13,4 +13,4 @@ This repository contains 5 Python projects with dataset
     Analyzing data analyst jobs posted on linkedIn to identify industry trends,popular keywords to enhance recruitment strategies
 
 5. USA REAL ESTATE ANALYSIS
-    A user-friendly system allowing input submission for obtaining desired property details in the USA.
+    A user-friendly system allowing input submission for obtaining desired property details in the USA
