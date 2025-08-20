@@ -46,13 +46,13 @@ The dataset contains detailed information on thousands of Zepto’s products acr
 
 - **Pricing Landscape**: The majority of products are affordably priced below ₹200, but the presence of high-MRP items introduces a **right-skewed price distribution**, indicating a mix of mass-market and premium SKUs.
 
-- **Discount Strategy**: Discounts are modest for most items (mostly ≤10%), with some **structured tiers (5%, 10%, 15%)** commonly applied — hinting at planned promotions rather than aggressive discounting across the board.
+- **Discount Strategy**: Discounts are modest for most items (mostly ≤10%), with some **structured tiers (5%, 10%, 15%)** commonly applied, hinting at planned promotions rather than aggressive discounting across the board.
 
 - **Stock Levels & Availability**: While most items are **in stock (≈89%)**, a small but relevant percentage are **out of stock (≈11%)**, which may indicate high demand or gaps in supply chain planning.
 
-- **Category-wise Pricing**: Certain categories like **Health & Nutrition** and **Beauty & Hygiene** show significantly **higher average MRPs**, while others like **Staples** and **Bakery** remain cost-effective — revealing Zepto’s category-specific pricing tiers.
+- **Category-wise Pricing**: Certain categories like **Health & Nutrition** and **Beauty & Hygiene** show significantly **higher average MRPs**, while others like **Staples** and **Bakery** remain cost-effective, revealing Zepto’s category-specific pricing tiers.
 
-- **Normalized Pricing**: The analysis of **MRP per 100g** standardizes product value and reveals outliers — such as lightweight yet costly items, often in beauty or health segments.
+- **Normalized Pricing**: The analysis of **MRP per 100g** standardizes product value and reveals outliers such as lightweight yet costly items, often in beauty or health segments.
 
 - **Inventory Strategy**: Some items show disproportionately high availableQuantity, possibly due to **stockpiling of high-demand or slow-moving goods**, with discounting used as a clearing tool in these cases.
 
