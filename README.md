@@ -1,1 +1,1 @@
-This repository contains Python projects with dataset
+This repository contains Python projects with their README files
